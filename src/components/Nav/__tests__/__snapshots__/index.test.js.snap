@@ -14,9 +14,9 @@ exports[`Nav component matches snapshot 1`] = `
           aria-label="camera"
           role="img"
         >
-          📸
+           📸
         </span>
-         Oh Snap!
+          Oh Snap!
       </a>
     </h2>
     <nav>
